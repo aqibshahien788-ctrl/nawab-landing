@@ -36,7 +36,7 @@ export default function Home() {
             marginBottom: "20px",
           }}
         >
-          EARN WITH <br /> NAWAB
+         EARN WITH <br /> AYUSH
         </h1>
 
         <p
