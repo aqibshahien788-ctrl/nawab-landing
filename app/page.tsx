@@ -85,7 +85,7 @@ export default function Home() {
             color: "#888",
           }}
         >
-          © 2025 @NAWAB TG. All rights reserved.
+          © 2025 @Ayush TG. All rights reserved.
         </p>
 
         <style>{`
