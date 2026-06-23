@@ -15,7 +15,7 @@ export default function Home() {
     >
       <div>
         <Image
-          src="/profile.jpg.PNG"
+          src="/profile.jpg"
           alt="Nawab"
           width={140}
           height={140}
